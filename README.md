@@ -8,3 +8,5 @@ Components used:
      6.6V battery ->to power the motor driver
      7.An infra red receiver->for capturing IR signals
      8.A TV remote ->for sending IR signals to control the car
+
+Source code is located inside the main.cpp file in the src folder
