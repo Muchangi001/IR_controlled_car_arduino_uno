@@ -1,5 +1,6 @@
+# OVERVIEW
 A robotic car that is controlled using IR signals from a tv remote.<br>
-**Components used:**<br>
+# COMPONENTS USED
 * Arduino uno board.<br>
 * Motor driver(L298N)->for controlling the speed and direction of the gear (DC) motors.<br> 
 * Two gear motors attached to the chassis.<br>
